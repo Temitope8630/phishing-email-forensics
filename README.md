@@ -1,6 +1,3 @@
-# phishing-email-forensics
-Email header and domain analysis toolkit
-
 # Phishing Email Forensics – Email Header & Domain Analysis Toolkit
 
 ## Project Overview
